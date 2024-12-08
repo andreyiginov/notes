@@ -32,8 +32,6 @@ if ($arg === '--new') { // если аргумент --new, то вызывае�
 }
 
 
-// git remote set-url origin ssh://git@gitverse.ru:2222/iginov/notes.git
-// ssh://git@gitverse.ru:2222/iginov/notes.git
-//sdasdasdasd
+// 3454456
 
 ?>
