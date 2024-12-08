@@ -29,4 +29,3 @@ function getNoteFromUser() {
     // Возвращаем полный текст заметки
     return $note;
 }
-

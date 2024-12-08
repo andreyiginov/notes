@@ -1,12 +1,5 @@
 <?php
 
-class FileManager {
-    private $dir;
-    public function __construct($dir) {
-        $this->dir = $dir;
-    }
-}
-
 /**
  * Сохраняет текст заметки в файл с расширением .content
  *
